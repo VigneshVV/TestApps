@@ -18,6 +18,7 @@
     [super viewDidLoad];
     [self.view setBackgroundColor:[UIColor redColor]];
     [self.view setBackgroundColor:[UIColor redColor]];
+    [self.view setBackgroundColor:[UIColor redColor]];
 
     // Do any additional setup after loading the view, typically from a nib.
 }
